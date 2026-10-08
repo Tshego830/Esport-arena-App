@@ -1,0 +1,10 @@
+{
+  "description": "This web application offers a comprehensive platform for booking gaming and esports experiences, featuring detailed packages, an interactive fee calculator, and easy navigation for users seeking high-performance gaming facilities.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
